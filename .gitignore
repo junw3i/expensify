@@ -1,3 +1,7 @@
 node_modules/
 *.log
 yarn.lock
+public/bundle.js
+public/bundle.js.map
+public/styles.css
+public/styles.css.map
