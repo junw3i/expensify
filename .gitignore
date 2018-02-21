@@ -1,3 +1,5 @@
 node_modules/
 *.log
 public/dist/
+.env.test
+.env.environment
